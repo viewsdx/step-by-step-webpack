@@ -22,6 +22,11 @@ module.exports = {
           cacheDirectory: true,
         },
       },
+      {
+        test: /\.view$/,
+        exclude: /(node_modules)/,
+        loader: 'views-loader',
+      },
     ],
   },
 
