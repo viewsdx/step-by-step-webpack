@@ -1,0 +1,24 @@
+{
+  "name": "views-step-by-step-webpack",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Views (viewsdx.com), React, and webpack step by step app",
+  "main": "index.js",
+  "author": "Darío Javier Cravero <dario@uxtemple.com>",
+  "license": "BSD-Clause-3",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-react-app": "^2.2.0",
+    "webpack": "^2.4.1",
+    "webpack-dev-server": "^2.4.5"
+  },
+  "dependencies": {
+    "react": "next",
+    "react-dom": "next",
+    "react-router-dom": "^4.1.1"
+  },
+  "scripts": {
+    "start": "NODE_ENV=development webpack-dev-server --port 3000"
+  }
+}
