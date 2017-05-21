@@ -62,4 +62,4 @@ If you would like Views syntax highlighter Darío Javier Cravero prepared a swee
 Try it in a test app
 
 ## Try it in sample app
-If you want to follow the installation steps in a sample project download [before-views](https://github.com/viewsdx/step-by-step-webpack/releases) repository,  but if you just want to jump to sample app with Views already installed download [with-views](https://github.com/viewsdx/step-by-step-webpack/releases) release.
+If you want to follow the installation steps in a sample project download [before-views](https://github.com/viewsdx/step-by-step-webpack/releases/tag/before-views) repository,  but if you just want to jump to sample app with Views already installed download [with-views](https://github.com/viewsdx/step-by-step-webpack/releases/tag/with-views) release.
