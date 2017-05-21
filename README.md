@@ -58,8 +58,7 @@ That’s it! You can now use it as a React component in your app like:
 ```
 <Hello />
 ```
-If you would like Views syntax highlighter Darío Javier Cravero prepared a sweet set of packages for [VIM](https://github.com/viewsdx/syntax-vim), [Atom](https://github.com/viewsdx/syntax-atom), and [Sublime](https://github.com/viewsdx/syntax-sublime). 
-Try it in a test app
+If you would like Views syntax highlighter Darío Javier Cravero prepared a sweet set of packages for [VIM](https://github.com/viewsdx/syntax-vim), [Atom](https://github.com/viewsdx/syntax-atom), and [Sublime](https://github.com/viewsdx/syntax-sublime).
 
 ## Try it in sample app
 If you want to follow the installation steps in a sample project download [before-views](https://github.com/viewsdx/step-by-step-webpack/releases/tag/before-views) repository,  but if you just want to jump to sample app with Views already installed download [with-views](https://github.com/viewsdx/step-by-step-webpack/releases/tag/with-views) release.
